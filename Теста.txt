@@ -1,3 +1,4 @@
+vless://d4a9e115-ba79-4b04-841d-313f1ffab307@subhol.abbvest.in:443?&security=tls&sni=hol.karwashnet.com&type=ws&headerType=none&host=hol.karwashnet.com&path=%2FxYzAbc123#🇳🇱 Нидерланды
 vless://ddffda27-8c5f-4f53-8450-4d11a1e0b368@144.124.228.129:4443#🇳🇱 Нидерланды
 vless://239ed41c-4af6-49ba-8156-ff2310ea5d78@95.211.47.191:443#🇳🇱 Нидерланды
 vless://b2b0791a-14f8-4260-baab-b9dee270ffec@94.103.1.44:443#🇳🇱 Нидерланды
